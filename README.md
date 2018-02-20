@@ -3,8 +3,10 @@ GRAPHICS ASSIGNMENT 1  (Pacman 2-D Game)
 
 EXECUTION 
 --------- 
-[ Make sure you have opengl libraries installed ]
-  For installation "Ubuntu" : sudo apt install libglew-dev libglfw3-dev libglm-dev cmake pkg-config 
+ Make sure you have opengl libraries installed 
+  
+For installation on "Ubuntu" : sudo apt install libglew-dev libglfw3-dev libglm-dev cmake pkg-config
+After required installations : 
 - Create a folder '/build' (mkdir build)
 - Change the directory to '/build' (cd build)
 - Run 'cmake ..'
