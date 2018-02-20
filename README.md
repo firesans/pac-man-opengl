@@ -17,8 +17,8 @@ CONTROLS :
 - The player can be navigated using the A and D for left and right.
 - The player can be made to jump using space button.
 - Zooming and panning are implemented. On pressing the 'up' button, the screen zooms in and on pressing the 'down' button, the screen zooms out.
-- For panning, on pressing the 'g' button, the screen pans right, and on pressing the 'h' button the screen pans left.
-- An virtually 'infinite' world is created.
+- For panning, on pressing the 'right' key, the screen pans right, and on pressing the 'left' button the screen pans left.
+- Virtually 'infinite' world is created.
 
 FEATURES IMPLEMENTED :
 ------------------------
